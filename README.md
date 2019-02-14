@@ -12,43 +12,9 @@ JavaScript was never built while keeping competitive coding in mind; let us all 
 
 Based on the notion - **JS is everywhere!** I also believe that maybe its time to motivate people who are well versed with this language to finally consider it in the realm of competitive programming.
 
-## Installation
+## Home Page View
 
-You can download the package in your working directory by simply typing in the **terminal** (for Mac/Linux users) or **command prompt** (for Windows users):
-
-```
-$ npm install mathball --save
-```
-
-## Features
-
-- **Number Checkers** - [isArmstrong()][3] - [isAutomorphic()][4] - [isKaprekar()][23] - [isLucky()][24] - [isNeon()][5] - [isPalindrome()][6] - [isPrime()][7] - [isSmith()][26]
-
-- **Find nth Number** - [catalan()][22] - [factorial()][21] - [fibonacci()][8] - [magic()][9] - [smart()][25]
-
-- **Mathematical Utilities** - [gcd()][10] - [isEven()][11] - [isOdd()][12] - [lcm()][13] - [length()][14] - [max()][15] - [min()][16] - [sort()][17] - [sum()][18]
-
-- **Helper Methods** - [performance()][27] - [pipe()][28]
-
-## Examples
-
-You can access all the utilities via **mathball** object, `M` (or whatever you end up calling it) like so:
-
-```js
-let M = require('mathball');
-
-console.log(M.isPalindrome(1551))       //true
-console.log(M.isEven(7))		//false
-console.log(M.sum([4, 5, 9]))		//18
-```
-
-Or, you can directly access an individual function as given below:
-
-```js
-let gcd = require('mathball/lib/gcd');
-
-console.log(gcd([12, 18, 24]));		//6
-```
+![](https://github.com/pbiswas101/Mathball/blob/master/assets/page-view.png)
 
 ## Contribution
 
