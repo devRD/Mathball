@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Mathball/static/js/runtime~main.0895d304.js"
   },
   {
-    "revision": "37c0d005b2d0dfc19779",
-    "url": "/Mathball/static/js/main.37c0d005.chunk.js"
+    "revision": "c475ff15c31779399e92",
+    "url": "/Mathball/static/js/main.c475ff15.chunk.js"
   },
   {
     "revision": "13eeb2032981bf3107f9",
     "url": "/Mathball/static/js/1.13eeb203.chunk.js"
   },
   {
-    "revision": "37c0d005b2d0dfc19779",
-    "url": "/Mathball/static/css/main.0b2b3b84.chunk.css"
+    "revision": "c475ff15c31779399e92",
+    "url": "/Mathball/static/css/main.b397c47c.chunk.css"
   },
   {
-    "revision": "cefccca8881ebfb107367b76356ccb06",
+    "revision": "9629e24b0e4ae404d05c48bd211da3f9",
     "url": "/Mathball/index.html"
   }
 ];

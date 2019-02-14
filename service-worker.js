@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Mathball/precache-manifest.53fef4f93ab48eadfe4625d0fd99125d.js"
+  "/Mathball/precache-manifest.a2cf13c42b5951d05b6ca73188b247f3.js"
 );
 
 workbox.clientsClaim();
